@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning `Computer Vision` `NLP`
 - 💬 Ask me about `Artificial Intelligence` `Machine Learning` `Deep Learning`
 - 📫 How to reach me: [mahmedmajeed.ai@gmail.com](mailto:mahmedmajeed.ai@gmail.com)
-- 📄 Know about my experiences `Peer Tutor , Data Simulation intern in British Aiways`
+- 📄 Know about my experiences `Machine Learning Intern at CodSoft`, `Peer Tutor`, `Data Simulation intern in British Aiways`
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-ahmed-a3a1a1226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-ahmed-a3a1a1226/" height="30" width="40" /></a>
