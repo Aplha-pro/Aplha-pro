@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AI Engineer</h1>
+<h1 align="center">Hi 👋, I'm AI Developer</h1>
 <h3 align="center">A passionate and disciplined AI student, currently studying at UMT Pakistan. Focused on continuous learning and project-driven work. Seeking opportunities to apply AI knowledge and contribute to advancements in the field.</h3>
 
 <p align="center">
